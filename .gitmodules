@@ -5,3 +5,6 @@
 	path = external/mbedtls
 	url = https://github.com/Mbed-TLS/mbedtls.git
 	branch = mbedtls-2.28
+[submodule "external/enet"]
+	path = external/enet
+	url = git@github.com:Dan-Araya/enet.git
